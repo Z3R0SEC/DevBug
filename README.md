@@ -1,9 +1,7 @@
-# DevBug
-https://www.patreon.com/Z3R0SEC/shop/52291
 <p align="center">
-<a href="#"><img title="Made in SOUTHAFRICA" src="https://img.shields.io/badge/MADE%20IN-SOUTH--AFRICA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Made in SOUTHAFRICA" src="https://img.shields.io/badge/MADE%20IN-SOUTH--AFRICA-green?colorA=black&colorB=grey&style=for-the-badge"></a>
 </p>
-<img ">
+<img src="https://raw.githubusercontent.com/Z3R0SEC/DevBug/main/Screenshot_20231106_004112.jpg" height="100%" width="110%">
 <p align="center">
 <a href="https://github.com/Z3R0SEC"><img title="Author" src="https://img.shields.io/badge/Author-Z3R0--TR4C3-red.svg?style=for-the-badge&logo=github"></a>
 </p>
